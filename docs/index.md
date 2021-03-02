@@ -1,1 +1,3 @@
 # Somos JzTech!
+
+Somos Juntoz Tech, una empresa ....
